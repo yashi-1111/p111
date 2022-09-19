@@ -1,0 +1,30 @@
+body{
+    font-family: 'Merriweather', serif;
+    background-color:rgb(180, 228, 221);
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 20px;
+}
+h2{
+    font-size: 50px;
+}
+#heading{
+    text-align: center;
+}
+img{
+    height: 220px;
+    width: 350px;
+    border-radius: 10px;
+}
+.testimage_div{
+    text-decoration: underline;
+    background-color: lemonchiffon;
+    width: fit-content;
+    border-radius: 15px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    margin-top: 20px;
+    box-shadow: 10px 10px 28px lightslategrey;
+}
